@@ -1,22 +1,19 @@
-html {cursor: url('images\crosshair2.png'), url('images\crosshair2.gif'), crosshair;}
+html {cursor: url('images\crosshair2.png'), url('images\crosshair2.gif'), crosshair;
+    text-align: center;
+}
 body {
     background-color: #4c4741;
     color: #b3ad97;
     font-size: 1.1em;
-    cursor: url('images\crosshair2.png'), url('images\crosshair2.gif'), crosshair;
 }
 h1 {
     color: #b67135;
     font-size: 70px;
     text-align: center;
 }
-#intro {
-    font-size: 1.3em;
-}
-.colorful {
-    color: orange;
-}
-img {border-radius: 20%;}
+
+img {border-radius: 20%;
+    box-shadow: 2px 3px 7px 2px rgb(182 113 53 / 68%)}
 .center {
     display: block;
     margin-left: auto;
