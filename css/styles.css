@@ -2,6 +2,7 @@ body {
     background-color: darkslategrey;
     color: azure;
     font-size: 1.1em;
+    cursor: url("images\crosshair.png"), url("images\crosshair.cur"), default;
 }
 h1 {
     color: coral;
@@ -12,3 +13,4 @@ h1 {
 .colorful {
     color: orange;
 }
+ 
