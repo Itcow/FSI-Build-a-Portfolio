@@ -6,6 +6,8 @@ body {
 }
 h1 {
     color: #b67135;
+    font-size: 70px;
+    text-align: center;
 }
 #intro {
     font-size: 1.3em;
@@ -13,4 +15,10 @@ h1 {
 .colorful {
     color: orange;
 }
- 
+img {border-radius: 20%;}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+  }
