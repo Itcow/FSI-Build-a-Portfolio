@@ -2,7 +2,7 @@ body {
     background-color: #4c4741;
     color: #b3ad97;
     font-size: 1.1em;
-    cursor: url("images\crosshair.png"), url("images\crosshair.cur"), default;
+    cursor: url("images\crosshair.png"), url("images\crosshair.gif"), default;
 }
 h1 {
     color: #b67135;
