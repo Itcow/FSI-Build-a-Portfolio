@@ -1,11 +1,11 @@
 body {
-    background-color: darkslategrey;
-    color: azure;
+    background-color: #4c4741;
+    color: #b3ad97;
     font-size: 1.1em;
     cursor: url("images\crosshair.png"), url("images\crosshair.cur"), default;
 }
 h1 {
-    color: coral;
+    color: #b67135;
 }
 #intro {
     font-size: 1.3em;
