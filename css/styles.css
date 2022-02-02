@@ -1,4 +1,4 @@
-html {cursor: url('images\crosshair2.png'), url('images\crosshair2.gif'), crosshair;
+html {cursor: url("C:\Users\cowce\Documents\FSI-Build-a-Portfolio\images\crosshair2.png"), url("C:\Users\cowce\Documents\FSI-Build-a-Portfolio\images\crosshair2.gif"), crosshair;
     text-align: center;
 }
 body {
@@ -20,3 +20,6 @@ img {border-radius: 20%;
     margin-right: auto;
     width: 75%;
   }
+  a:link, a:visited {
+    color: #b67135;
+    text-decoration: none;}
